@@ -38,7 +38,7 @@ public class EmployeeReg {
 	void search() {
 		Employee e;
 		  Scanner s=new Scanner(System.in);
-		  System.out.println("ENTER THE EMPLOYEE NUMBER TO FIND");
+		  System.out.println("ENTER THE EMPLOYEE NUMBER TO FIND eat samosoa");
 		  boolean find=false;
 		  int i=0;
 		 int  id=s.nextInt();
